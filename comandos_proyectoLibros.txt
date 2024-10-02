@@ -1,0 +1,19 @@
+# creación de proyecto libros
+npm create vite@latest proyecto_libors
+cd proyecto libros
+code .
+
+# creo acrchivo workspace
+
+# creacion de carpetas de la logica del negocio
+md src\assets\img
+md src\app\componentes
+md src\app\componentes\libros
+md src\app\componentes\contenedor
+md src\app\componentes\otros
+md src\app\mocks
+md src\app\modelos
+md src\app\utilidades
+md src\app\utilidades\dominios
+md src\app\utilidades\funciones
+md src\app\utilidades\misHooks 
